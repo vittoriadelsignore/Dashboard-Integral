@@ -26,7 +26,7 @@ Apertura por: rango eterio, género, provincia, producto, plan
 ![Hoja1](https://github.com/vittoriadelsignore/Dashboard_Consolidacion/blob/master/Pagina1.png)
 
 # BAJAS
-![Bajas]([https://github.com/vittoriadelsignore/Dashboard_Consolidacion/blob/master/Pagina1.png](https://github.com/vittoriadelsignore/Dashboard-Integral/blob/master/BAJAS.jpeg))
+![Bajas](https://github.com/vittoriadelsignore/Dashboard-Integral/blob/master/BAJAS.jpeg)
 
 # QUEJAS Y RECLAMOS
 ![Hoja1](https://github.com/vittoriadelsignore/Dashboard_Consolidacion/blob/master/Pagina1.png)
