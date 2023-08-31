@@ -14,19 +14,19 @@ Apertura por: rango eterio, género, provincia, producto, plan
 
 
 # CARTERA
-![Hoja1](https://github.com/vittoriadelsignore/Dashboard_Consolidacion/blob/master/Pagina1.png)
+![Cartera](https://github.com/vittoriadelsignore/Dashboard-Integral/blob/master/CARTERA.jpeg)
 
 # SINIESTROS (GENERAL)
-![Hoja1](https://github.com/vittoriadelsignore/Dashboard_Consolidacion/blob/master/Pagina1.png)
+![Siniestros](https://github.com/vittoriadelsignore/Dashboard-Integral/blob/master/SINIESTROS%20GRAL.jpeg)
 
 # SINIESTROS (APERTURA POR MESES)
-![Hoja1](https://github.com/vittoriadelsignore/Dashboard_Consolidacion/blob/master/Pagina1.png)
+![Siniestros Meses](https://github.com/vittoriadelsignore/Dashboard-Integral/blob/master/SINIESTROS%20MESES.jpeg)
 
 # SINIESTROS (MONTOS RECLAMADOS Y PAGADOS)
-![Hoja1](https://github.com/vittoriadelsignore/Dashboard_Consolidacion/blob/master/Pagina1.png)
+![Siniestros Montos](https://github.com/vittoriadelsignore/Dashboard-Integral/blob/master/SINIESTROS%20MONTOS.jpeg)
 
 # BAJAS
 ![Bajas](https://github.com/vittoriadelsignore/Dashboard-Integral/blob/master/BAJAS.jpeg)
 
 # QUEJAS Y RECLAMOS
-![Hoja1](https://github.com/vittoriadelsignore/Dashboard_Consolidacion/blob/master/Pagina1.png)
+![Quejas y Reclamos](https://github.com/vittoriadelsignore/Dashboard-Integral/blob/master/QUEJAS%20Y%20RECLAMOS.jpeg)
