@@ -18,7 +18,7 @@ La empresa tiene el 100% de los mails de sus clientes, esto debido a que la apli
 ![Cartera](https://github.com/vittoriadelsignore/Dashboard-Integral/blob/master/Cartera.png)
 
 # SINIESTROS (GENERAL)
-![Siniestros](https://github.com/vittoriadelsignore/Dashboard-Integral/blob/master/SINIESTROS%20GRAL.jpeg)
+![Siniestros](https://github.com/vittoriadelsignore/Dashboard-Integral/blob/master/Siniestros.png)
 
 # SINIESTROS (APERTURA POR MESES)
 ![Siniestros Meses](https://github.com/vittoriadelsignore/Dashboard-Integral/blob/master/Siniestros%20Meses.png)
