@@ -28,10 +28,16 @@ La empresa tiene el 100% de los mails de sus clientes, esto debido a que la apli
 ![Siniestros Meses]([https://github.com/vittoriadelsignore/Dashboard-Integral/blob/master/Siniestros%20Meses.png)](https://github.com/vittoriadelsignore/Dashboard-Integral/blob/master/Siniestros%20Meses.png)
 
 # SINIESTROS (MONTOS RECLAMADOS Y PAGADOS)
-![Siniestros Montos](https://github.com/vittoriade)lsignore/Dashboard-Integral/blob/master/Siniestros%20Montos.png)
+![Siniestros Montos](https://github.com/vittoriadelsignore/Dashboard-Integral/blob/master/Siniestros%20Montos.png)
 
 # BAJAS
+Muestra la totalidad de clientes dados de baja y sus distintas aperturas para entender los motivos.
 ![Bajas](https://github.com/vittoriadelsignore/Dashboard-Integral/blob/master/Bajas.png)
 
 # QUEJAS Y RECLAMOS
+Muestra los motivos de las quejas y tambien la proporción de esas quejas frente a la cartera de clientes, lo que muestra que es un porcentaje muy bajo de clientes que llaman por quejas y reclamos.
 ![Quejas y Reclamos](https://github.com/vittoriadelsignore/Dashboard-Integral/blob/master/Quejas%20y%20Reclamos.png)
+
+# POS - Bajas
+Muestra información de las ventas en el POS (Point of Sale) o tienda, a nivel de jefe, supervisor y vendedor; y muestra también cuantas bajas tuvieron y la propoción entre bajas y ventas.
+![POS - Bajas](https://github.com/vittoriadelsignore/Dashboard-Integral/blob/master/POS%20Ventas-Bajas.png)
