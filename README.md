@@ -39,5 +39,5 @@ Muestra los motivos de las quejas y tambien la proporción de esas quejas frente
 ![Quejas y Reclamos](https://github.com/vittoriadelsignore/Dashboard-Integral/blob/master/Quejas%20y%20Reclamos.png)
 
 # POS - Bajas
-Muestra información de las ventas en el POS (Point of Sale) o tienda, a nivel de jefe, supervisor y vendedor; y muestra también cuantas bajas tuvieron y la propoción entre bajas y ventas.
+Muestra información de las ventas en el POS (Point of Sale) o tienda, a nivel de jefe, supervisor y vendedor; y muestra también cuantas bajas tuvieron y la propoción entre bajas y ventas. Ayuda a conocer el desempeño de cada empleado, identificar patrones y tendencias, mejorar la gestión del personal, optimizar recursos, tomar decisiones basadas en datos, dar feedback a los empleados e incluso saber dónde requieren entrenamiento.
 ![POS - Bajas](https://github.com/vittoriadelsignore/Dashboard-Integral/blob/master/POS%20Ventas-Bajas.png)
